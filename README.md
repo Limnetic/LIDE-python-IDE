@@ -14,3 +14,5 @@ The full copyright holder and distributor of the program is Limnetic from Lyrarm
 Website of company: www.lyrarmastudio.com
 
 # LIDE - Lyrarma Integrated Development Environment
+
+![image](https://github.com/user-attachments/assets/67e92d31-0394-4614-8dd5-100ea8f603cf)
